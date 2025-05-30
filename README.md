@@ -39,6 +39,22 @@ I'm a Senior Software Development Engineer in Test (SSDET) focused on delivering
 
 ---
 
+## 📂 Projects
+
+### 🔸 [Web Test Automation Framework](https://github.com/yourusername/web-test-framework)
+A scalable Selenium + TestNG based framework with modular architecture, cross-browser support, and Allure reporting.
+
+### 🔸 [API Test Automation with Rest Assured](https://github.com/yourusername/api-testing-restassured)
+End-to-end REST API testing framework using Java, Rest Assured, and Maven. Includes schema validation and test data generation.
+
+### 🔸 [CI/CD Pipeline Demo](https://github.com/yourusername/ci-cd-demo)
+Demo project integrating GitHub Actions with automated test execution, reporting, and deployment.
+
+### 🔸 [Mobile App Test Automation](https://github.com/yourusername/appium-mobile-testing)
+Automated testing for Android/iOS apps using Appium, with Page Object Model and custom logger.
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
